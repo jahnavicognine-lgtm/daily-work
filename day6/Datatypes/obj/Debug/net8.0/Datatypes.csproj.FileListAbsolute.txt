@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\bin\Debug\net8.0\Datatypes.exe
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\bin\Debug\net8.0\Datatypes.deps.json
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\bin\Debug\net8.0\Datatypes.runtimeconfig.json
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\bin\Debug\net8.0\Datatypes.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\bin\Debug\net8.0\Datatypes.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\obj\Debug\net8.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\obj\Debug\net8.0\Datatypes.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\obj\Debug\net8.0\Datatypes.AssemblyInfo.cs
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\obj\Debug\net8.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\obj\Debug\net8.0\Datatypes.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\obj\Debug\net8.0\refint\Datatypes.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\obj\Debug\net8.0\Datatypes.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\obj\Debug\net8.0\Datatypes.genruntimeconfig.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\Datatypes\obj\Debug\net8.0\ref\Datatypes.dll
