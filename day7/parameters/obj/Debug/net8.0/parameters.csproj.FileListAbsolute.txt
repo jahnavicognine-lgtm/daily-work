@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\bin\Debug\net8.0\parameters.exe
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\bin\Debug\net8.0\parameters.deps.json
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\bin\Debug\net8.0\parameters.runtimeconfig.json
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\bin\Debug\net8.0\parameters.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\bin\Debug\net8.0\parameters.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\obj\Debug\net8.0\parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\obj\Debug\net8.0\parameters.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\obj\Debug\net8.0\parameters.AssemblyInfo.cs
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\obj\Debug\net8.0\parameters.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\obj\Debug\net8.0\parameters.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\obj\Debug\net8.0\refint\parameters.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\obj\Debug\net8.0\parameters.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\obj\Debug\net8.0\parameters.genruntimeconfig.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\parameters\obj\Debug\net8.0\ref\parameters.dll
