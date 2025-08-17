@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\bin\Debug\net8.0\MethodsandObject.exe
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\bin\Debug\net8.0\MethodsandObject.deps.json
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\bin\Debug\net8.0\MethodsandObject.runtimeconfig.json
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\bin\Debug\net8.0\MethodsandObject.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\bin\Debug\net8.0\MethodsandObject.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\obj\Debug\net8.0\MethodsandObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\obj\Debug\net8.0\MethodsandObject.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\obj\Debug\net8.0\MethodsandObject.AssemblyInfo.cs
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\obj\Debug\net8.0\MethodsandObject.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\obj\Debug\net8.0\MethodsandObject.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\obj\Debug\net8.0\refint\MethodsandObject.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\obj\Debug\net8.0\MethodsandObject.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\obj\Debug\net8.0\MethodsandObject.genruntimeconfig.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\MethodsandObject\obj\Debug\net8.0\ref\MethodsandObject.dll
