@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\bin\Debug\net8.0\StaticClassMethodVariables.exe
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\bin\Debug\net8.0\StaticClassMethodVariables.deps.json
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\bin\Debug\net8.0\StaticClassMethodVariables.runtimeconfig.json
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\bin\Debug\net8.0\StaticClassMethodVariables.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\bin\Debug\net8.0\StaticClassMethodVariables.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\obj\Debug\net8.0\StaticClassMethodVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\obj\Debug\net8.0\StaticClassMethodVariables.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\obj\Debug\net8.0\StaticClassMethodVariables.AssemblyInfo.cs
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\obj\Debug\net8.0\StaticClassMethodVariables.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\obj\Debug\net8.0\StaticClassMethodVariables.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\obj\Debug\net8.0\refint\StaticClassMethodVariables.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\obj\Debug\net8.0\StaticClassMethodVariables.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\obj\Debug\net8.0\StaticClassMethodVariables.genruntimeconfig.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\StaticClassMethodVariables\obj\Debug\net8.0\ref\StaticClassMethodVariables.dll
